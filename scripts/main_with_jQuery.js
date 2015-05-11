@@ -40,5 +40,11 @@ soundManager.setup({
  },
  ontimeout: function() {
  }
+
+ //  $("#repeat").on('click', function(){
+ //       startData = $('r').val();
+ //      console.log(startData);
+ // })
+
 }); 
 
